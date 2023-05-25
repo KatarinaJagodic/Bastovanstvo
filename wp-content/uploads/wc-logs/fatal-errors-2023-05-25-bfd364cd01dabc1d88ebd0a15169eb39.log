@@ -1,0 +1,2 @@
+2023-05-25T19:53:40+00:00 CRITICAL Out of memory (allocated 60817408) (tried to allocate 32768 bytes) in C:\xampp\htdocs\flora\wp-content\plugins\woocommerce\includes\rest-api\Utilities\SingletonTrait.php on line 1
+
