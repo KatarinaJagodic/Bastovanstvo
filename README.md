@@ -1,0 +1,3 @@
+Sajt Flora je namenjen ljubiteljima baštovanstva i predstavlja mesto na kome korisnici mogu pronaći baštovanske priče, savete i iskustva o uzgoju cveća. Takođe, preko našeg sajta možete stupiti u kontakt sa drugim ljubiteljima prirode i cveća, i tako razmenjivati lična iskustva. U okviru sajta nalazi se blog, gde možete pročitati novosti, mini prodavnica, preko koje možete nabaviti najkvalitetnije seme bilja, kao i Chat asistent, koji je tu za Vaša pitanja 24/7. Za Vas smo obezbedili i "Cvetni Kviz" koji testira poznavanje baštenskih biljaka, a ukoliko odgovorite tačno na sva pitanja očekuje Vas iznenađenje!
+
+Link ka dokumentaciji sajta: https://docs.google.com/document/d/1uo_j6810EZMPW_0vgTLXFI4Ngi2n52CdxXrhaa12CW8/edit?usp=sharing
